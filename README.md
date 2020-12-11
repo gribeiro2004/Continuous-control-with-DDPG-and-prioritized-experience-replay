@@ -1,5 +1,5 @@
 # Environment description
-
+![](Continuous-Control.gif)
 - Set-up: Double-jointed arms that can move to target locations.
 - Goal: The agents must move their hands to the goal location and keep it there.
 - Agents: The environment contains 20 agents with the same behavior parameters.
