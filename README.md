@@ -1,7 +1,5 @@
 # Environment description
 
-![](RackMultipart20201211-4-k4kdxa_html_281a2c1748e825bf.gif)
-
 - Set-up: Double-jointed arms that can move to target locations.
 - Goal: The agents must move their hands to the goal location and keep it there.
 - Agents: The environment contains 20 agents with the same behavior parameters.
@@ -42,9 +40,9 @@ The episode is considered solved when the agents get an average score of +30 (ov
 - unityagents==0.4.0
 - mlagents==0.4
 
-1. Install the classic control environment group
+3. Install the classic control environment group
   - conda install -c conda-forge gym-classic\_control
-2. Install the box2d environment group
+4. Install the box2d environment group
   - conda install -c conda-forge box2d-py
 
 # Installing the environment
